@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba2fe8b3-260b-4216-b67b-60418d2d70a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/student_record_system.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Owner/PycharmProjects/PythonProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780928843949</updated>
-      <workItem from="1780928869496" duration="7410000" />
+      <workItem from="1780928869496" duration="8481000" />
     </task>
     <servers />
   </component>
